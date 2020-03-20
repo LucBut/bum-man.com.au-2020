@@ -2,6 +2,7 @@ import React from 'react';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import { Container, Divider } from 'semantic-ui-react';
 import 'semantic-ui-css/semantic.min.css';
+import 'react-lazy-load-image-component/src/effects/blur.css';
 
 const BumMan = ({ alt, src }) => {
   return (
@@ -11,6 +12,7 @@ const BumMan = ({ alt, src }) => {
         height={400}
         src={src} // use normal <img> attributes as props
         width={400}
+        effect="blur"
       />
       <p>Lazy pink.</p>
       <Divider />

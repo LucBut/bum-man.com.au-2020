@@ -3,7 +3,7 @@ import { Container } from 'semantic-ui-react';
 
 import 'semantic-ui-css/semantic.min.css';
 import 'react-lazy-load-image-component/src/effects/blur.css';
-import './image.css';
+import './image.css' ;
 
 import TopSection from './TopSection';
 import BumPost from './BumPost';

@@ -14,6 +14,13 @@ const App = () => {
       <TopSection />
 
       <BumPost
+        date="26th March 2020"
+        instagram="https://www.instagram.com/p/B-MGZQuFgTn/"
+        image="/bumman/45_Self-isolation.jpg"
+        title="Self-isolation 🍑"
+      />
+
+      <BumPost
         date="25th March 2020"
         instagram="https://www.instagram.com/p/B-JF2YlAG0a/"
         image="/bumman/44_Home office.jpg"

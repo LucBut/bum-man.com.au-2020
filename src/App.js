@@ -15,6 +15,13 @@ const App = () => {
 
       <BumPost
         date="7 May 2020"
+        instagram="https://www.instagram.com/p/B_3ZxjVg6kk/"
+        image="/bumman/52_Mankini party.jpg"
+        title="Mankini party 🍑"
+      />
+
+      <BumPost
+        date="7 May 2020"
         instagram="https://www.instagram.com/p/B_3XWsqAY_z/"
         image="/bumman/51_Archives_Birthday card.jpg"
         title="From the archives [2]. Kindly sent in from the Furbank Collection. Circa early 2000s maybe 🍑"

@@ -16,7 +16,7 @@ const App = () => {
       <BumPost
         date="24 May 2020"
         instagram="https://www.instagram.com/p/CAkF2VbAHiy/"
-        image="/bumman/55_Day trip_live footage.jpg"
+        image="/bumman/55_Day trip_live footage.mp4"
         title="Day trip - live footage 🍑"
       />
 

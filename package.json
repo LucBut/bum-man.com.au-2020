@@ -6,12 +6,17 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "acorn": "^8.0.1",
+    "gatsby-cli": "^2.12.87",
+    "lodash": "^4.17.20",
+    "minimist": "^1.2.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-lazy-load-image-component": "^1.4.1",
     "react-scripts": "3.4.0",
     "semantic-ui-css": "^2.4.1",
-    "semantic-ui-react": "^0.88.2"
+    "semantic-ui-react": "^0.88.2",
+    "serialize-javascript": "^4.0.0"
   },
   "scripts": {
     "start": "react-scripts start",

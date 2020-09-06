@@ -15,7 +15,7 @@ const App = () => {
 
       <BumPost
         date="6 September 2020"
-        instagram="https://https://www.instagram.com/p/CExlo1Zlou_/"
+        instagram="https://www.instagram.com/p/CExlo1Zlou_/"
         image="/bumman/62_Happy virtual fathers day.jpg"
         title="Happy virtual father's day 🍑"
         />

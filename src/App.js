@@ -14,6 +14,13 @@ const App = () => {
       <TopSection />
 
       <BumPost
+        date="12 September 2020"
+        instagram="https://www.instagram.com/p/CFBy3uglXd8/"
+        image="/bumman/63_Archives_scuba.jpg"
+        title="From the archives. Kindly sent in from the Fraser Collection. 21st birthday card, circa late 90s 🍑"
+        />
+
+      <BumPost
         date="6 September 2020"
         instagram="https://www.instagram.com/p/CExlo1Zlou_/"
         image="/bumman/62_Happy virtual fathers day.jpg"

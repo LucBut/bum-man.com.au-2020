@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react';
 import { Container } from 'semantic-ui-react';
 
@@ -18,63 +19,63 @@ const App = () => {
         instagram="https://www.instagram.com/p/CImYNX1FRiQ/"
         image="/bumman/69_Meow.jpg"
         title="Meow 🍑"
-        />
+      />
 
       <BumPost
         date="13 November 2020"
         instagram="https://www.instagram.com/p/CHhWwMcllBt/"
         image="/bumman/68_Undo some buttons its Friday.jpg"
         title="Undo some buttons, it's Friday 🍑"
-        />
+      />
 
       <BumPost
         date="8 November 2020"
         instagram="https://www.instagram.com/p/CHUTQkyle-i/"
         image="/bumman/67_Lets get loose.jpg"
         title="Let's get loose 🍑"
-        />
+      />
 
       <BumPost
         date="8 November 2020"
         instagram="https://www.instagram.com/p/CHT6iOuFBsr/"
         image="/bumman/66_Lets do some business.jpg"
         title="Let's do some business 🍑"
-        />
+      />
 
       <BumPost
         date="24 October 2020"
         instagram="https://www.instagram.com/p/CGt-S0mlhaR/"
         image="/bumman/65_X-Files.jpg"
         title="X-Files 🍑"
-        />
+      />
 
       <BumPost
         date="14 September 2020"
         instagram="https://www.instagram.com/p/CFG52aXFpz9/"
         image="/bumman/64_Ready for ignition.jpg"
         title="Ready for ignition 🍑"
-        />
+      />
 
       <BumPost
         date="12 September 2020"
         instagram="https://www.instagram.com/p/CFBy3uglXd8/"
         image="/bumman/63_Archives_scuba.jpg"
         title="From the archives. Kindly sent in from the Fraser Collection. 21st birthday card, circa late 90s 🍑"
-        />
+      />
 
       <BumPost
         date="6 September 2020"
         instagram="https://www.instagram.com/p/CExlo1Zlou_/"
         image="/bumman/62_Happy virtual fathers day.jpg"
         title="Happy virtual father's day 🍑"
-        />
+      />
 
       <BumPost
         date="22 August 2020"
         instagram="https://www.instagram.com/p/CEL0B-uFh_J/"
         image="/bumman/61_Emission-powered vehicle.jpg"
         title="Emission-powered vehicle 🍑"
-        />
+      />
 
       <BumPost
         date="8 August 2020"

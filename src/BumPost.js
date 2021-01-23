@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import React from 'react';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import { Divider, Header } from 'semantic-ui-react';

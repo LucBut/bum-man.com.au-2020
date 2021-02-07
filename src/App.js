@@ -15,6 +15,41 @@ const App = () => {
       <TopSection />
 
       <BumPost
+        date="7 February 2021"
+        instagram="https://www.instagram.com/p/CK-a04_FuUd/"
+        image="/bumman/70_Fractal_a.jpg"
+        title="Fractal, 80s style 🍑"
+      />
+
+      <BumPost
+        date="7 February 2021"
+        instagram="https://www.instagram.com/p/CK-a04_FuUd/"
+        image="/bumman/70_Fractal_b.jpg"
+        title="Fractal, 80s style 🍑"
+      />
+
+      <BumPost
+        date="7 February 2021"
+        instagram="https://www.instagram.com/p/CK-a04_FuUd/"
+        image="/bumman/70_Fractal_c.jpg"
+        title="Fractal, 80s style 🍑"
+      />
+
+      <BumPost
+        date="7 February 2021"
+        instagram="https://www.instagram.com/p/CK-a04_FuUd/"
+        image="/bumman/70_Fractal_d.jpg"
+        title="Fractal, 80s style 🍑"
+      />
+
+      <BumPost
+        date="7 February 2021"
+        instagram="https://www.instagram.com/p/CK-a04_FuUd/"
+        image="/bumman/70_Fractal_e.jpg"
+        title="Fractal, 80s style 🍑"
+      />
+
+      <BumPost
         date="10 December 2020"
         instagram="https://www.instagram.com/p/CImYNX1FRiQ/"
         image="/bumman/69_Meow.jpg"

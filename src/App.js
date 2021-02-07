@@ -17,35 +17,35 @@ const App = () => {
       <BumPost
         date="7 February 2021"
         instagram="https://www.instagram.com/p/CK-a04_FuUd/"
-        image="/bumman/70_Fractal_a.jpg"
+        image="/bumman/70_Fractal_a.png"
         title="Fractal, 80s style 🍑"
       />
 
       <BumPost
         date="7 February 2021"
         instagram="https://www.instagram.com/p/CK-a04_FuUd/"
-        image="/bumman/70_Fractal_b.jpg"
+        image="/bumman/70_Fractal_b.png"
         title="Fractal, 80s style 🍑"
       />
 
       <BumPost
         date="7 February 2021"
         instagram="https://www.instagram.com/p/CK-a04_FuUd/"
-        image="/bumman/70_Fractal_c.jpg"
+        image="/bumman/70_Fractal_c.png"
         title="Fractal, 80s style 🍑"
       />
 
       <BumPost
         date="7 February 2021"
         instagram="https://www.instagram.com/p/CK-a04_FuUd/"
-        image="/bumman/70_Fractal_d.jpg"
+        image="/bumman/70_Fractal_d.png"
         title="Fractal, 80s style 🍑"
       />
 
       <BumPost
         date="7 February 2021"
         instagram="https://www.instagram.com/p/CK-a04_FuUd/"
-        image="/bumman/70_Fractal_e.jpg"
+        image="/bumman/70_Fractal_e.png"
         title="Fractal, 80s style 🍑"
       />
 

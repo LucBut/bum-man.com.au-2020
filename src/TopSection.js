@@ -29,7 +29,7 @@ const TopSection = () => (
       }}
     >
       <div style={{ fontSize: '1.1em', gridColumn: 1 }}>
-        Born around 1991 in Clarence, NSW, Australia.
+        Drawings from a happy place.
       </div>
       <div style={{ gridColumn: 3, justifySelf: 'end' }}>
         <a href="https://www.instagram.com/thebummandiaries/">

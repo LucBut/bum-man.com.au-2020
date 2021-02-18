@@ -30,6 +30,12 @@ const TopSection = () => (
     >
       <div style={{ fontSize: '1.1em', gridColumn: 1 }}>
         Drawings from a happy place.
+
+        Colouring sheets now available!
+
+        ➡️ https://gumroad.com/bumman
+
+        
       </div>
       <div style={{ gridColumn: 3, justifySelf: 'end' }}>
         <a href="https://www.instagram.com/thebummandiaries/">

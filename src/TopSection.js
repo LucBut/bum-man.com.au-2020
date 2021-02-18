@@ -31,9 +31,7 @@ const TopSection = () => (
       <div style={{ fontSize: '1.1em', gridColumn: 1 }}>
         Drawings from a happy place.
 
-        Colouring sheets now available!
-
-        <a href="https://gumroad.com/bumman">
+       
 
         
       </div>

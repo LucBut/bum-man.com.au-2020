@@ -33,8 +33,8 @@ const TopSection = () => (
 
         Colouring sheets now available!
 
-        ➡️ https://gumroad.com/bumman
-
+        <div<"https://gumroad.com/bumman">
+>
         
       </div>
       <div style={{ gridColumn: 3, justifySelf: 'end' }}>

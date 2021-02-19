@@ -7,6 +7,7 @@ import 'react-lazy-load-image-component/src/effects/blur.css';
 import './image.css';
 
 import TopSection from './TopSection';
+import Footer from './Footer';
 import BumPost from './BumPost';
 
 const App = () => {
@@ -516,6 +517,8 @@ const App = () => {
         image="/bumman/1_Classic_pink.jpg"
         title="Classic 🍑"
       />
+
+      <Footer />
     </Container>
   );
 };

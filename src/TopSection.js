@@ -65,16 +65,29 @@ const TopSection = ({ simple = false }) => (
             fontSize: '1.2rem',
             marginTop: '30px',
             marginBottom: '30px',
-            textDecoration: 'underline',
             border: '2px solid darkgrey',
             padding: '10px 20px 10px 20px',
             borderRadius: '5px',
             boxShadow: '2px 2px 5px lightgrey',
           }}
         >
-          <a style={{ color: 'black' }} href="https://gumroad.com/bumman">
-            Colouring packs now available on Gumroad.
-          </a>
+          <p>
+            Colouring packs now available on{' '}
+            <a
+              style={{ color: 'black', textDecoration: 'underline' }}
+              href="https://www.etsy.com/au/shop/MrBumMan"
+            >
+              Etsy
+            </a>{' '}
+            and{' '}
+            <a
+              style={{ color: 'black', textDecoration: 'underline' }}
+              href="https://gumroad.com/bumman"
+            >
+              Gumroad
+            </a>
+            .
+          </p>
         </div>
 
         <Divider />

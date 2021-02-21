@@ -538,14 +538,14 @@ const App = () => {
             date="9th July 2018"
             instagram="https://www.instagram.com/p/BlAU1NohTs_/"
             image="/bumman/6_Digitised for the archives_b.jpg"
-            title="Digitised for the archives (b) | Acrylic on wood (circa 1992) | On loan from the J Staines collection 🍑"
+            title="Original | Acrylic on wood (circa 1992) | On loan from the J Staines collection 🍑"
           />
 
           <BumPost
             date="9th July 2018"
             instagram="https://www.instagram.com/p/BlAU1NohTs_/"
             image="/bumman/6_Digitised for the archives_a.jpg"
-            title="Digitised for the archives (a) | Acrylic on wood (circa 1992) | On loan from the J Staines collection 🍑"
+            title="Digitised for the archives | Acrylic on wood (circa 1992) | On loan from the J Staines collection 🍑"
           />
 
           <BumPost

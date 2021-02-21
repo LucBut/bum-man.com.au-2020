@@ -16,7 +16,7 @@ const Privacy = () => {
 
       <Header as="h1">Privacy policy</Header>
 
-      <p>Put your words here.</p>
+      <p>Put your words here, yeah.</p>
 
       <Divider />
       <Footer />

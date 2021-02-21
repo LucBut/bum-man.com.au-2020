@@ -43,6 +43,13 @@ const App = () => {
       {/* == Items in here are on page 1 ==-==-==-==-==-==-==-==-==-==-==-== */}
       {page === 1 ? (
         <>
+<BumPost
+            date="19 February 2021"
+            instagram="https://www.instagram.com/p/CLdYtxel468/"
+            image="/bumman/71_Colouring pack 1.png"
+            title="Download from Etsy or Gumroad - wahoo 🍑"
+          />
+
           <BumPost
             date="7 February 2021"
             instagram="https://www.instagram.com/p/CK-a04_FuUd/"

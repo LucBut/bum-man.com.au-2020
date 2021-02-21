@@ -15,7 +15,16 @@ const App = () => {
 
   console.log('page:', page);
 
-  const handlePageChange = (e, { activePage }) => setPage(activePage);
+  const handlePageChange = (e, { activePage }) => {
+    setPage(activePage);
+    setTimeout(() => {
+      window.scrollTo({
+        top: 0,
+        left: 0,
+        behavior: 'smooth',
+      });
+    }, 100);
+  };
 
   return (
     <Container text style={{ margin: '50px 0 100px 0' }}>

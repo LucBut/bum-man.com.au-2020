@@ -165,7 +165,7 @@ const App = () => {
           <BumPost
             date="12 June 2020"
             instagram="https://www.instagram.com/p/CBUndY3gDA_/"
-            image="/bumman/57_Hey its Friday.mp4"
+            image="/bumman/57_Hey its Friday.png"
             title="Hey it's Friday! 🍑"
           />
         </>
@@ -184,7 +184,7 @@ const App = () => {
           <BumPost
             date="24 May 2020"
             instagram="https://www.instagram.com/p/CAkF2VbAHiy/"
-            image="/bumman/55_Day trip_live footage.mp4"
+            image="/bumman/55_Day trip_live footage.png"
             title="Day trip - live footage 🍑"
           />
 

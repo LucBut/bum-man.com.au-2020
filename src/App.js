@@ -48,7 +48,7 @@ const App = () => {
             date="6 March 2021"
             instagram="https://www.instagram.com/p/CMEVblTlOlj/"
             image="/bumman/72_Tools organised.png"
-            title="Tools organised for the first time since Christmas 1999 🤓🍑"
+            title="Tools organised for the first time since Christmas 1999 🤓 🍑"
           />
 
 <BumPost

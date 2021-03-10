@@ -44,6 +44,14 @@ const App = () => {
       {page === 1 ? (
         <>
 
+
+<BumPost
+            date="10 March 2021"
+            instagram="https://www.instagram.com/p/CMOf_CqFwu2/"
+            image="/bumman/73_6WD adventure.png"
+            title="6WD adventure 🍑"
+          />
+
 <BumPost
             date="6 March 2021"
             instagram="https://www.instagram.com/p/CMEVblTlOlj/"

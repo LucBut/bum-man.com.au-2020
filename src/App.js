@@ -44,6 +44,12 @@ const App = () => {
       {page === 1 ? (
         <>
 
+<BumPost
+            date="13 March 2021"
+            instagram="https://www.instagram.com/p/CMV7_cpFUrb/"
+            image="/bumman/74_Happy burpday.png"
+            title="Happy Burpday 🍑"
+          />
 
 <BumPost
             date="10 March 2021"

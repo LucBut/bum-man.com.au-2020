@@ -44,6 +44,42 @@ const App = () => {
       {/* == Items in here are on page 1 ==-==-==-==-==-==-==-==-==-==-==-== */}
       {page === 1 ? (
         <>
+
+<BumPost
+            date="22 March 2021"
+            instagram="https://www.instagram.com/p/CMtRpSOFwbA/"
+            image="/bumman/75_Happy birthday plusoneday.png"
+            title="Happy birthday plusoneday 🍑"
+          />
+
+<BumPost
+            date="13 March 2021"
+            instagram="https://www.instagram.com/p/CMV7_cpFUrb/"
+            image="/bumman/74_Happy burpday.png"
+            title="Happy Burpday 🍑"
+          />
+
+<BumPost
+            date="10 March 2021"
+            instagram="https://www.instagram.com/p/CMOf_CqFwu2/"
+            image="/bumman/73_6WD adventure.png"
+            title="6WD adventure 🍑"
+          />
+
+<BumPost
+            date="6 March 2021"
+            instagram="https://www.instagram.com/p/CMEVblTlOlj/"
+            image="/bumman/72_Tools organised.png"
+            title="Tools organised for the first time since Christmas 1999 🤓 🍑"
+          />
+
+<BumPost
+            date="19 February 2021"
+            instagram="https://www.instagram.com/p/CLdYtxel468/"
+            image="/bumman/71_Colouring pack 1.png"
+            title="Download from Etsy or Gumroad - wahoo 🍑"
+          />
+
           <BumPost
             date="7 February 2021"
             instagram="https://www.instagram.com/p/CK-a04_FuUd/"
@@ -532,14 +568,14 @@ const App = () => {
             date="9th July 2018"
             instagram="https://www.instagram.com/p/BlAU1NohTs_/"
             image="/bumman/6_Digitised for the archives_b.jpg"
-            title="Digitised for the archives (b) | Acrylic on wood (circa 1992) | On loan from the J Staines collection 🍑"
+            title="Original | Acrylic on wood (circa 1992) | On loan from the J Staines collection 🍑"
           />
 
           <BumPost
             date="9th July 2018"
             instagram="https://www.instagram.com/p/BlAU1NohTs_/"
             image="/bumman/6_Digitised for the archives_a.jpg"
-            title="Digitised for the archives (a) | Acrylic on wood (circa 1992) | On loan from the J Staines collection 🍑"
+            title="Digitised for the archives | Acrylic on wood (circa 1992) | On loan from the J Staines collection 🍑"
           />
 
           <BumPost

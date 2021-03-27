@@ -65,6 +65,9 @@ const TopSection = ({ simple = false }) => (
             fontSize: '1.2rem',
             marginTop: '30px',
             marginBottom: '30px',
+            marginLeft: 'auto',
+            marginRight: 'auto',
+            maxWidth: '450px',
             border: '2px solid darkgrey',
             padding: '10px 20px 10px 20px',
             borderRadius: '5px',
@@ -72,7 +75,8 @@ const TopSection = ({ simple = false }) => (
           }}
         >
           <p>
-            Colouring packs now available on{' '}
+            Colouring packs now available on
+            <br />
             <a
               style={{ color: 'black', textDecoration: 'underline' }}
               href="https://www.etsy.com/au/shop/MrBumMan"

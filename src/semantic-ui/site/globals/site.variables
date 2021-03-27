@@ -1,0 +1,11 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+/*-------------------
+     Fonts
+--------------------*/
+
+@headerFont        : -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+@pageFont          : -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+@fontSmoothing     : antialiased;

@@ -73,7 +73,6 @@ const TopSection = ({ simple = false }) => (
         >
           <p>
             Colouring packs now available on{' '}
-            {window.innerWidth <= 380 && <br />}
             <a
               style={{ color: 'black', textDecoration: 'underline' }}
               href="https://www.etsy.com/au/shop/MrBumMan"

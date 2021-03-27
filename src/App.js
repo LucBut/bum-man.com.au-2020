@@ -2,7 +2,8 @@
 import React, { useState } from 'react';
 import { Container, Divider, Pagination } from 'semantic-ui-react';
 
-import 'semantic-ui-css/semantic.min.css';
+// import 'semantic-ui-css/semantic.min.css';
+import 'semantic-ui-less/semantic.less';
 import 'react-lazy-load-image-component/src/effects/blur.css';
 import './image.css';
 

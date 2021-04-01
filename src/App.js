@@ -179,7 +179,14 @@ const App = () => {
             title="Happy virtual father's day 🍑"
           />
 
-          <BumPost
+        </>
+      ) : null}
+
+      {/* == Items in here are on page 2 ==-==-==-==-==-==-==-==-==-==-==-== */}
+      {page === 2 ? (
+        <>
+
+<BumPost
             date="22 August 2020"
             instagram="https://www.instagram.com/p/CEL0B-uFh_J/"
             image="/bumman/61_Emission-powered vehicle.jpg"
@@ -213,12 +220,7 @@ const App = () => {
             image="/bumman/57_Hey its Friday.png"
             title="Hey it's Friday! 🍑"
           />
-        </>
-      ) : null}
 
-      {/* == Items in here are on page 2 ==-==-==-==-==-==-==-==-==-==-==-== */}
-      {page === 2 ? (
-        <>
           <BumPost
             date="31 May 2020"
             instagram="https://www.instagram.com/p/CA2C6lJFT8l/"
@@ -324,7 +326,14 @@ const App = () => {
             title="National Gallery 🍑"
           />
 
-          <BumPost
+        </>
+      ) : null}
+
+      {/* == Items in here are on page 3 ==-==-==-==-==-==-==-==-==-==-==-== */}
+      {page === 3 ? (
+        <>
+
+<BumPost
             date="19th March 2020"
             instagram="https://www.instagram.com/p/B950dXClcY4/"
             image="/bumman/41_Afternoon tea.jpg"
@@ -358,12 +367,7 @@ const App = () => {
             image="/bumman/37_Motel pool.jpg"
             title="Motel pool 🍑"
           />
-        </>
-      ) : null}
 
-      {/* == Items in here are on page 3 ==-==-==-==-==-==-==-==-==-==-==-== */}
-      {page === 3 ? (
-        <>
           <BumPost
             date="24th December 2019"
             instagram="https://www.instagram.com/p/B6ckTFplhrQ/"
@@ -466,7 +470,15 @@ const App = () => {
             image="/bumman/22_Open-plan_hot-desking.jpg"
             title="Open-plan, hot-desking 🍑"
           />
-          <BumPost
+          
+        </>
+      ) : null}
+
+      {/* == Items in here are on page 4 ==-==-==-==-==-==-==-==-==-==-==-== */}
+      {page === 4 ? (
+        <>
+
+<BumPost
             date="9th February 2019"
             instagram="https://www.instagram.com/p/Btp0tYenxUE/"
             image="/bumman/21_Night walk.jpg"
@@ -496,12 +508,7 @@ const App = () => {
             image="/bumman/17_Blood donor.jpg"
             title="Blood donor 🍑"
           />
-        </>
-      ) : null}
 
-      {/* == Items in here are on page 4 ==-==-==-==-==-==-==-==-==-==-==-== */}
-      {page === 4 ? (
-        <>
           <BumPost
             date="29th January 2019"
             instagram="https://www.instagram.com/p/BtM1rfVH6F7/"

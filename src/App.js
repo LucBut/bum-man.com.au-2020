@@ -46,8 +46,22 @@ const App = () => {
         <>
 
 <BumPost
+            date="23 April 2021"
+            instagram="https://www.instagram.com/p/COACtcoFuFg/"
+            image="/bumman/80_Abby b.png"
+            title="Super star work from VIP colouring influencer - Abby from Victoria 🍑"
+          />
+
+<BumPost
+            date="23 April 2021"
+            instagram="https://www.instagram.com/p/COACtcoFuFg/"
+            image="/bumman/80_Abby a.png"
+            title="Super star work from VIP colouring influencer - Abby from Victoria 🍑"
+          />
+
+<BumPost
             date="4 April 2021"
-            instagram="https://www.instagram.com/thebummandiaries/"
+            instagram="https://www.instagram.com/p/CNOkeVGl97K/"
             image="/bumman/79_Eggsta.png"
             title="Eggsta 🍑"
           />

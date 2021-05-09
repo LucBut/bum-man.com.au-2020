@@ -46,6 +46,13 @@ const App = () => {
         <>
 
 <BumPost
+            date="9 May 2021"
+            instagram="https://www.instagram.com/p/COoloLFla5E/"
+            image="/bumman/82_Lying on the couch.png"
+            title="May all the mothers get to lie down and read a really big book today 🍑"
+          />
+
+<BumPost
             date="6 May 2021"
             instagram="https://www.instagram.com/p/COg6D2YFtQY/"
             image="/bumman/81_Mountain drive.png"

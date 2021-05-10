@@ -33,7 +33,7 @@ const TopSection = ({ simple = false }) => (
           }}
         >
           <div
-            style={{ alignSelf: 'center', fontSize: '1.1em', gridColumn: 1 }}
+            style={{ alignSelf: 'center', fontSize: '1.2em', gridColumn: 1 }}
           >
             Drawings from a happy place.
           </div>
@@ -54,6 +54,20 @@ const TopSection = ({ simple = false }) => (
             <a style={{ color: '#444444' }} href="https://twitter.com/mrbumman">
               <i className="fab fa-twitter-square" />
             </a>
+            <div
+              style={{
+                fontSize: '1.2rem',
+                textAlign: 'center',
+                border: '1px solid darkgrey',
+                borderRadius: '3px',
+                boxShadow: '2px 2px 2px lightgrey',
+                padding: '2px 0 2px 0',
+              }}
+            >
+              <a href="http://blog.bum-man.com.au" style={{ color: 'black' }}>
+                Blog
+              </a>
+            </div>
           </div>
         </div>
 

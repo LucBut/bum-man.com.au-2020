@@ -186,7 +186,14 @@ const App = () => {
             title="Undo some buttons, it's Friday 🍑"
           />
 
-          <BumPost
+        </>
+      ) : null}
+
+      {/* == Items in here are on page 2 ==-==-==-==-==-==-==-==-==-==-==-== */}
+      {page === 2 ? (
+        <>
+
+<BumPost
             date="8 November 2020"
             instagram="https://www.instagram.com/p/CHUTQkyle-i/"
             image="/bumman/67_Lets get loose.jpg"
@@ -227,13 +234,6 @@ const App = () => {
             image="/bumman/62_Happy virtual fathers day.jpg"
             title="Happy virtual father's day 🍑"
           />
-
-        </>
-      ) : null}
-
-      {/* == Items in here are on page 2 ==-==-==-==-==-==-==-==-==-==-==-== */}
-      {page === 2 ? (
-        <>
 
 <BumPost
             date="22 August 2020"

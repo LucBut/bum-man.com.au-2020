@@ -137,7 +137,15 @@ const App = () => {
             title="Download from Etsy or Gumroad - wahoo 🍑"
           />
 
-          <BumPost
+
+        </>
+      ) : null}
+
+      {/* == Items in here are on page 2 ==-==-==-==-==-==-==-==-==-==-==-== */}
+      {page === 2 ? (
+        <>
+
+<BumPost
             date="7 February 2021"
             instagram="https://www.instagram.com/p/CK-a04_FuUd/"
             image="/bumman/70_Fractal_a.png"
@@ -185,13 +193,6 @@ const App = () => {
             image="/bumman/68_Undo some buttons its Friday.jpg"
             title="Undo some buttons, it's Friday 🍑"
           />
-
-        </>
-      ) : null}
-
-      {/* == Items in here are on page 2 ==-==-==-==-==-==-==-==-==-==-==-== */}
-      {page === 2 ? (
-        <>
 
 <BumPost
             date="8 November 2020"

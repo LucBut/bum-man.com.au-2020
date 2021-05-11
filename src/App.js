@@ -333,7 +333,14 @@ const App = () => {
             title="Modern art vs Einstein 🍑"
           />
 
-          <BumPost
+        </>
+      ) : null}
+
+      {/* == Items in here are on page 3 ==-==-==-==-==-==-==-==-==-==-==-== */}
+      {page === 3 ? (
+        <>
+
+<BumPost
             date="9th April 2020"
             instagram="https://www.instagram.com/p/B-vYQTdlsAR/"
             image="/bumman/47_Evening jive.jpg"
@@ -374,13 +381,6 @@ const App = () => {
             image="/bumman/42_National Gallery.jpg"
             title="National Gallery 🍑"
           />
-
-        </>
-      ) : null}
-
-      {/* == Items in here are on page 3 ==-==-==-==-==-==-==-==-==-==-==-== */}
-      {page === 3 ? (
-        <>
 
 <BumPost
             date="19th March 2020"

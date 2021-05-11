@@ -479,8 +479,15 @@ const App = () => {
             image="/bumman/28_Birthday.jpg"
             title="Birthday 🍑"
           />
+          
+        </>
+      ) : null}
 
-          <BumPost
+      {/* == Items in here are on page 4 ==-==-==-==-==-==-==-==-==-==-==-== */}
+      {page === 4 ? (
+        <>
+
+<BumPost
             date="11th August 2019"
             instagram="https://www.instagram.com/p/B1A2d_cH2R3/"
             image="/bumman/27_Pool.jpg"
@@ -519,13 +526,6 @@ const App = () => {
             image="/bumman/22_Open-plan_hot-desking.jpg"
             title="Open-plan, hot-desking 🍑"
           />
-          
-        </>
-      ) : null}
-
-      {/* == Items in here are on page 4 ==-==-==-==-==-==-==-==-==-==-==-== */}
-      {page === 4 ? (
-        <>
 
 <BumPost
             date="9th February 2019"

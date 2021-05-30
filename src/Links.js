@@ -55,7 +55,7 @@ const Links = () => {
         <Link url="https://gumroad.com/bumman" text="Gumroad shop" />
         <div style={{ marginTop: '1.5rem' }} />
         <Link url="https://bum-man.com.au/" text="Website" />
-        <Link url="https://blog.bum-man.com.au/" text="Comic" />
+        <Link url="https://blog.bum-man.com.au/" text="Blog" />
         <Link
           url="https://www.instagram.com/thebummandiaries/"
           text="Instagram"

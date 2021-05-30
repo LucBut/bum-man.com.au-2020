@@ -91,7 +91,7 @@ const TopSection = ({ simple = false }) => (
           }}
         >
           <p>
-            Colouring packs now available on
+            Colouring pages are now available on
             <br />
             <a
               style={{ color: 'black', textDecoration: 'underline' }}

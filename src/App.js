@@ -44,122 +44,117 @@ const App = () => {
       {/* == Items in here are on page 1 ==-==-==-==-==-==-==-==-==-==-==-== */}
       {page === 1 ? (
         <>
-
-<BumPost
+          <BumPost
             date="28 May 2021"
             instagram="https://www.instagram.com/p/CPZ2s0oFDTH/"
             image="/bumman/84_Next generation spacesuit prototype 1.png"
             title="Next generation spacesuit prototype 1 🍑"
           />
 
-<BumPost
+          <BumPost
             date="14 May 2021"
             instagram="https://www.instagram.com/p/CO1sRmyld8K/"
             image="/bumman/83_Afternoon float.png"
             title="Afternoon float 🍑"
           />
 
-<BumPost
+          <BumPost
             date="9 May 2021"
             instagram="https://www.instagram.com/p/COoloLFla5E/"
             image="/bumman/82_Lying on the couch.png"
             title="May all the mothers get to lie down and read a really big book today 🍑"
           />
 
-<BumPost
+          <BumPost
             date="6 May 2021"
             instagram="https://www.instagram.com/p/COg6D2YFtQY/"
             image="/bumman/81_Mountain drive.png"
             title="Mountain drive 🍑"
           />
 
-<BumPost
+          <BumPost
             date="23 April 2021"
             instagram="https://www.instagram.com/p/COACtcoFuFg/"
             image="/bumman/80_Abby b.png"
             title="Super star work from VIP colouring influencer - Abby from Victoria 🍑"
           />
 
-<BumPost
+          <BumPost
             date="23 April 2021"
             instagram="https://www.instagram.com/p/COACtcoFuFg/"
             image="/bumman/80_Abby a.png"
             title="Super star work from VIP colouring influencer - Abby from Victoria 🍑"
           />
 
-<BumPost
+          <BumPost
             date="4 April 2021"
             instagram="https://www.instagram.com/p/CNOkeVGl97K/"
             image="/bumman/79_Eggsta.png"
             title="Eggsta 🍑"
           />
 
-<BumPost
+          <BumPost
             date="2 April 2021"
             instagram="https://www.instagram.com/p/CNJ6-ViFmmP/"
             image="/bumman/78_Hat friend.png"
             title="Hat friend 🍑"
           />
 
-<BumPost
+          <BumPost
             date="1 April 2021"
             instagram="https://www.instagram.com/p/CNGp050lHf8/"
             image="/bumman/77_Moo.png"
             title="Moo 🍑"
           />
 
-<BumPost
+          <BumPost
             date="30 March 2021"
             instagram="https://www.instagram.com/p/CNB66vMFdAx/"
             image="/bumman/76_Toot toot.png"
             title="Toot toot 🍑"
           />
 
-
-<BumPost
+          <BumPost
             date="22 March 2021"
             instagram="https://www.instagram.com/p/CMtRpSOFwbA/"
             image="/bumman/75_Happy birthday plusoneday.png"
             title="Happy birthday plusoneday 🍑"
           />
 
-<BumPost
+          <BumPost
             date="13 March 2021"
             instagram="https://www.instagram.com/p/CMV7_cpFUrb/"
             image="/bumman/74_Happy burpday.png"
             title="Happy Burpday 🍑"
           />
 
-<BumPost
+          <BumPost
             date="10 March 2021"
             instagram="https://www.instagram.com/p/CMOf_CqFwu2/"
             image="/bumman/73_6WD adventure.png"
             title="6WD adventure 🍑"
           />
 
-<BumPost
+          <BumPost
             date="6 March 2021"
             instagram="https://www.instagram.com/p/CMEVblTlOlj/"
             image="/bumman/72_Tools organised.png"
             title="Tools organised for the first time since Christmas 1999 🤓 🍑"
           />
 
-<BumPost
+          <BumPost
             date="19 February 2021"
             instagram="https://www.instagram.com/p/CLdYtxel468/"
             image="/bumman/71_Colouring pack 1.png"
             title="Download from Etsy or Gumroad - wahoo 🍑"
           />
-
-
         </>
       ) : null}
 
       {/* == Items in here are on page 2 ==-==-==-==-==-==-==-==-==-==-==-== */}
       {page === 2 ? (
         <>
-
-<BumPost
+          <BumPost
             date="7 February 2021"
             instagram="https://www.instagram.com/p/CK-a04_FuUd/"
             image="/bumman/70_Fractal_a.png"
@@ -208,7 +203,7 @@ const App = () => {
             title="Undo some buttons, it's Friday 🍑"
           />
 
-<BumPost
+          <BumPost
             date="8 November 2020"
             instagram="https://www.instagram.com/p/CHUTQkyle-i/"
             image="/bumman/67_Lets get loose.jpg"
@@ -250,7 +245,7 @@ const App = () => {
             title="Happy virtual father's day 🍑"
           />
 
-<BumPost
+          <BumPost
             date="22 August 2020"
             instagram="https://www.instagram.com/p/CEL0B-uFh_J/"
             image="/bumman/61_Emission-powered vehicle.jpg"
@@ -347,15 +342,13 @@ const App = () => {
             image="/bumman/48_Modern art vs Einstein.jpg"
             title="Modern art vs Einstein 🍑"
           />
-
         </>
       ) : null}
 
       {/* == Items in here are on page 3 ==-==-==-==-==-==-==-==-==-==-==-== */}
       {page === 3 ? (
         <>
-
-<BumPost
+          <BumPost
             date="9th April 2020"
             instagram="https://www.instagram.com/p/B-vYQTdlsAR/"
             image="/bumman/47_Evening jive.jpg"
@@ -397,7 +390,7 @@ const App = () => {
             title="National Gallery 🍑"
           />
 
-<BumPost
+          <BumPost
             date="19th March 2020"
             instagram="https://www.instagram.com/p/B950dXClcY4/"
             image="/bumman/41_Afternoon tea.jpg"
@@ -494,15 +487,13 @@ const App = () => {
             image="/bumman/28_Birthday.jpg"
             title="Birthday 🍑"
           />
-          
         </>
       ) : null}
 
       {/* == Items in here are on page 4 ==-==-==-==-==-==-==-==-==-==-==-== */}
       {page === 4 ? (
         <>
-
-<BumPost
+          <BumPost
             date="11th August 2019"
             instagram="https://www.instagram.com/p/B1A2d_cH2R3/"
             image="/bumman/27_Pool.jpg"
@@ -542,7 +533,7 @@ const App = () => {
             title="Open-plan, hot-desking 🍑"
           />
 
-<BumPost
+          <BumPost
             date="9th February 2019"
             instagram="https://www.instagram.com/p/Btp0tYenxUE/"
             image="/bumman/21_Night walk.jpg"

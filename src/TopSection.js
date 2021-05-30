@@ -35,9 +35,9 @@ const TopSection = ({ simple = false }) => (
           <div
             style={{ alignSelf: 'center', fontSize: '1.2em', gridColumn: 1 }}
           >
-            Drawings from a happy place.
+            <p>Drawings from a happy place.</p>
 
-            As of 24/5/21, all drawings are made with [pen tips] (https://pen.tips/?ref=3uiv7sxl7i).
+            <p>As of 24/5/21, all drawings are made with <a href="https://pen.tips/?ref=3uiv7sxl7i">pen tips</a>.</p>
           </div>
           <div
             style={{

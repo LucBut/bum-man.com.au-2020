@@ -37,7 +37,8 @@ const TopSection = ({ simple = false }) => (
           >
             <p>Drawings from a happy place.</p>
 
-            <p>As of 24/05/21, all drawings are made with <a href="https://pen.tips/?ref=3uiv7sxl7i">pen tips</a>.</p>
+            <p>As of 24/05/21, all drawings are made with
+            <a href="https://pen.tips/?ref=3uiv7sxl7i">pen tips</a>.</p>
           </div>
           <div
             style={{

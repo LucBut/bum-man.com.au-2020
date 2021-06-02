@@ -44,11 +44,33 @@ const App = () => {
       {/* == Items in here are on page 1 ==-==-==-==-==-==-==-==-==-==-==-== */}
       {page === 1 ? (
         <>
+
+<BumPost
+            date="2 June 2021"
+            instagram="https://www.instagram.com/p/CPmpLJbF9wH/"
+            image="/bumman/87_Maggie.png"
+            title="Amazing work with bright colours and big smiles from VIP colouring influencer - Maggie from New South Wales 🍑"
+          />
+
+<BumPost
+            date="30 May 2021"
+            instagram="https://www.instagram.com/p/CPfItZYllNy/"
+            image="/bumman/86_Sale.png"
+            title="🍑"
+          />
+
           <BumPost
             date="28 May 2021"
             instagram="https://www.instagram.com/p/CPZ2s0oFDTH/"
-            image="/bumman/84_Next generation spacesuit prototype 1.png"
+            image="/bumman/85_Next generation spacesuit prototype 1.png"
             title="Next generation spacesuit prototype 1 🍑"
+          />
+
+<BumPost
+            date="20 May 2021"
+            instagram="https://www.instagram.com/p/CPE-dvVlgvY/"
+            image="/bumman/84_Charlie.jpg"
+            title="Nice colour transition on the lycra bodysuit from VIP colouring influencer - Charlie from New South Wales 🍑"
           />
 
           <BumPost

@@ -55,7 +55,7 @@ const App = () => {
 <BumPost
             date="5 June 2021"
             instagram="https://www.instagram.com/thebummandiaries/"
-            image="/bumman/88_Colouring 1.gif"
+            image="/bumman/88_Colouring 1.png"
             title="Colouring 🍑"
           />
 

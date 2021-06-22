@@ -99,14 +99,14 @@ const TopSection = ({ simple = false }) => (
             >
               Etsy
             </a>{' '}
-            and{' '}
+            {/*and{' '}
             <a
               style={{ color: 'black', textDecoration: 'underline' }}
               href="https://gumroad.com/bumman"
             >
-              Gumroad
-            </a>
-            .
+        Gumroad
+        </a>
+            .*/}
           </p>
         </div>
 

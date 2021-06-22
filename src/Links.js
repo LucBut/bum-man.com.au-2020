@@ -52,7 +52,7 @@ const Links = () => {
         </div>
         <div>Colouring pages now available on our:</div>
         <Link url="https://www.etsy.com/au/shop/MrBumMan" text="Etsy shop" />
-        <Link url="https://gumroad.com/bumman" text="Gumroad shop" />
+        {/*<Link url="https://gumroad.com/bumman" text="Gumroad shop" />*/}
         <div style={{ marginTop: '1.5rem' }} />
         <Link url="https://bum-man.com.au/" text="Website" />
         <Link url="https://blog.bum-man.com.au/" text="Blog" />

@@ -46,6 +46,13 @@ const App = () => {
         <>
 
 <BumPost
+            date="30 June 2021"
+            instagram="https://www.instagram.com/p/CQuDasflXjZ/"
+            image="/bumman/90_Disco haircut.png"
+            title="Disco hair cut 🍑 (Happy birthday Amanda!)"
+          />
+
+<BumPost
             date="5 June 2021"
             instagram="https://www.instagram.com/p/CPuqwrVFFOe/"
             image="/bumman/89_Next generation spacesuit prototype 2.png"

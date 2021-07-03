@@ -49,7 +49,7 @@ const App = () => {
             date="3 July 2021"
             instagram="https://www.instagram.com/p/CQ2UGrOlgDZ/"
             image="/bumman/92_Inverell Influencers.png"
-            title="So much concentration, so many nice pencils - this makes Bum Man very happy. Thank you to the dedicated VIP colouring tester-influencers from Team Inverell, New South Wales. 🍑"
+            title="So much concentration, so many nice pencils - this makes Bum Man happy. Thank you to the dedicated VIP colouring tester-influencers from Team Inverell, New South Wales. 🍑"
           />
 
 <BumPost

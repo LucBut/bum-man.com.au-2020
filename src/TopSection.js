@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import React from 'react';
 import { Divider, Header } from 'semantic-ui-react';
 
@@ -37,7 +38,7 @@ const TopSection = ({ simple = false }) => (
             <p>Drawings from a happy place.</p>
 
             <p>As of 24/05/21, all drawings are made with{' '}
-            <a href="https://pen.tips/?ref=3uiv7sxl7i">pen tips</a>.</p>
+              <a href="https://pen.tips/?ref=3uiv7sxl7i">pen tips</a>.</p>
           </div>
           <div
             style={{
@@ -104,8 +105,8 @@ const TopSection = ({ simple = false }) => (
               style={{ color: 'black', textDecoration: 'underline' }}
               href="https://gumroad.com/bumman"
             >
-        Gumroad
-        </a>
+              Gumroad
+            </a>
             .
           </p>
         </div>

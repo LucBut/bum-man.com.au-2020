@@ -49,7 +49,7 @@ const App = () => {
             date="9 July 2021"
             instagram="https://www.instagram.com/p/CRFczorFbkc/"
             image="/bumman/93_Just bounce.png"
-            title="Just bounce 🍑"
+            title="Bounce 🍑"
           />
 
 <BumPost

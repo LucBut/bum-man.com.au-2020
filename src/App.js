@@ -48,7 +48,7 @@ const App = () => {
 <BumPost
             date="9 July 2021"
             instagram="https://www.instagram.com/p/CRFczorFbkc/"
-            image="/bumman/93_Just bounce.png"
+            image="/bumman/93_Bounce.png"
             title="Bounce 🍑"
           />
 

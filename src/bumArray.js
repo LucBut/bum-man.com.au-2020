@@ -72,14 +72,6 @@ export const bumArray = [
   />,
 
   <BumPost
-    date="30 May 2021"
-    instagram="https://www.instagram.com/p/CPfItZYllNy/"
-    image="/bumman/86_Sale.png"
-    title="🍑"
-    key="🍑"
-  />,
-
-  <BumPost
     date="28 May 2021"
     instagram="https://www.instagram.com/p/CPZ2s0oFDTH/"
     image="/bumman/85_Next generation spacesuit prototype 1.png"

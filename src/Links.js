@@ -52,8 +52,8 @@ const Links = () => {
         </div>
         <div>For stickers and colouring sheets ➡️ Etsy.
           For wallpapers and colouring sheets ➡️ Gumroad.</div>
-        <Link url="https://www.etsy.com/au/shop/MrBumMan" text="Etsy shop" />
-        <Link url="https://gumroad.com/bumman" text="Gumroad shop" />
+        <Link url="https://www.etsy.com/au/shop/MrBumMan" text="Etsy shop (stickers, colouring pages)" />
+        <Link url="https://gumroad.com/bumman" text="Gumroad shop (free wallpapers, colouring pages)" />
         <div style={{ marginTop: '1.5rem' }} />
         <Link url="https://bum-man.com.au/" text="Website" />
         <Link url="https://blog.bum-man.com.au/" text="Blog" />

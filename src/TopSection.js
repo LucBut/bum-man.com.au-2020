@@ -92,7 +92,7 @@ const TopSection = ({ simple = false }) => (
           }}
         >
           <p>
-            Stickers, colouring pages and free wallpapers are on
+            Stickers, colouring pages, free wallpapers ⬇️
             <br />
             <a
               style={{ color: 'black', textDecoration: 'underline' }}

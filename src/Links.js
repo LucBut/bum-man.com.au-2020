@@ -50,7 +50,8 @@ const Links = () => {
             style={{ borderRadius: '9999px', width: '70px', height: '70px' }}
           />
         </div>
-        <div>Colouring pages now available on our:</div>
+        <div>For stickers and colouring sheets ➡️ Etsy.
+          For wallpapers and colouring sheets ➡️ Gumroad.</div>
         <Link url="https://www.etsy.com/au/shop/MrBumMan" text="Etsy shop" />
         <Link url="https://gumroad.com/bumman" text="Gumroad shop" />
         <div style={{ marginTop: '1.5rem' }} />

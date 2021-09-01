@@ -19,9 +19,9 @@ export const bumArray = [
   <BumPost
     date="1 September 2021"
     instagram="https://www.instagram.com/p/CTRHS7VlAOq/"
-    image="/bumman/99_Capital City downtown.png"
-    title="Capital City downtown 🍑"
-    key="Capital City downtown 🍑"
+    image="/bumman/99_Capital City.png"
+    title="Capital City 🍑"
+    key="Capital City 🍑"
   />,
 
   <BumPost

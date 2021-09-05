@@ -19,7 +19,7 @@ export const bumArray = [
   <BumPost
     date="5 September 2021"
     instagram="https://www.instagram.com/p/CTbWGyDlve2/"
-    image="/bumman/101_Father's Day 2021.png"
+    image="/bumman/101_Fathers Day 2021.png"
     title="Happy virtual Father's Day 2021 🍑"
     key="Happy virtual Father's Day 2021 🍑"
   />,

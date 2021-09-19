@@ -61,6 +61,7 @@ const Links = () => {
           text="Instagram"
         />
         <Link url="https://twitter.com/MrBumMan" text="Twitter" />
+        <Link url="https://bum-man.holaplex.com/" text="NFTs" />
       </div>
     </Container>
   );

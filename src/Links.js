@@ -53,6 +53,7 @@ const Links = () => {
         <div></div>
         <Link url="https://www.etsy.com/au/shop/MrBumMan" text="Etsy (stickers, badges, colouring pages)" />
         <Link url="https://bumman.gumroad.com" text="Gumroad (free wallpapers, colouring pages)" />
+        <Link url="https://bum-man.holaplex.com" text="Holaplex (NFTs)" />
         <div style={{ marginTop: '1.5rem' }} />
         <Link url="https://bum-man.com.au/" text="Website" />
         <Link url="https://blog.bum-man.com.au/" text="Blog" />
@@ -61,7 +62,6 @@ const Links = () => {
           text="Instagram"
         />
         <Link url="https://twitter.com/MrBumMan" text="Twitter" />
-        <Link url="https://bum-man.holaplex.com/" text="NFTs" />
       </div>
     </Container>
   );

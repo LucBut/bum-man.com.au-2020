@@ -17,11 +17,11 @@ import BumPost from './BumPost';
 export const bumArray = [
 
   <BumPost
-    date="30 September 2021"
-    instagram="https://www.instagram.com/p/CUbOPpgPCd_/"
-    image="/bumman/104_Irene 75.png"
-    title="Happy birthday Irene! 🍑"
-    key="Happy birthday Irene 🍑"
+    date="4 October 2021"
+    instagram="https://www.instagram.com/p/CUl9sHilFmF/"
+    image="/bumman/105_KaRam.jpg"
+    title="I ❤️ this. Made by a busy man on the go - Bum Man colouring influencer KaRam, aged 5 from New South Wales 🍑"
+    key="Karam 🍑"
   />,
 
   <BumPost

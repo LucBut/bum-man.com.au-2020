@@ -114,7 +114,7 @@ const TopSection = ({ simple = false }) => (
             >
               Holaplex
             </a>
-            .
+
           </p>
         </div>
 

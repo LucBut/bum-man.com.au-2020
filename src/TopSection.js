@@ -92,7 +92,7 @@ const TopSection = ({ simple = false }) => (
           }}
         >
           <p>
-            Stickers, badges, colouring pages, free wallpapers:
+            Stickers, badges, colouring pages, NFTs and free wallpapers:
             <br />
             <a
               style={{ color: 'black', textDecoration: 'underline' }}
@@ -106,6 +106,13 @@ const TopSection = ({ simple = false }) => (
               href="https://gumroad.com/bumman"
             >
               Gumroad
+            </a>
+            and{' '}
+            <a
+              style={{ color: 'black', textDecoration: 'underline' }}
+              href="https://bum-man.holaplex.com/#/"
+            >
+              Holaplex
             </a>
             .
           </p>

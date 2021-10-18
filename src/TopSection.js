@@ -106,7 +106,7 @@ const TopSection = ({ simple = false }) => (
               href="https://gumroad.com/bumman"
             >
               Gumroad
-            </a>
+            </a>{' '}
             and{' '}
             <a
               style={{ color: 'black', textDecoration: 'underline' }}

@@ -291,39 +291,7 @@ export const bumArray = [
   <BumPost
     date="7 February 2021"
     instagram="https://www.instagram.com/p/CK-a04_FuUd/"
-    image="/bumman/70_Fractal_a.png"
-    title="Fractal, 80s style 🍑"
-    key="Fractal, 80s style A 🍑"
-  />,
-
-  <BumPost
-    date="7 February 2021"
-    instagram="https://www.instagram.com/p/CK-a04_FuUd/"
-    image="/bumman/70_Fractal_b.png"
-    title="Fractal, 80s style 🍑"
-    key="Fractal, 80s style B 🍑"
-  />,
-
-  <BumPost
-    date="7 February 2021"
-    instagram="https://www.instagram.com/p/CK-a04_FuUd/"
-    image="/bumman/70_Fractal_c.png"
-    title="Fractal, 80s style 🍑"
-    key="Fractal, 80s style C 🍑"
-  />,
-
-  <BumPost
-    date="7 February 2021"
-    instagram="https://www.instagram.com/p/CK-a04_FuUd/"
-    image="/bumman/70_Fractal_d.png"
-    title="Fractal, 80s style 🍑"
-    key="Fractal, 80s style D 🍑"
-  />,
-
-  <BumPost
-    date="7 February 2021"
-    instagram="https://www.instagram.com/p/CK-a04_FuUd/"
-    image="/bumman/70_Fractal_e.png"
+    image="/bumman/70_fractal animated.png"
     title="Fractal, 80s style 🍑"
     key="Fractal, 80s style 🍑"
   />,

@@ -92,7 +92,7 @@ const TopSection = ({ simple = false }) => (
           }}
         >
           <p>
-            Stickers, badges, colouring pages, NFTs, wallpapers:
+            Stickers, badges, colouring book, NFTs, wallpapers:
             <br />
             <a
               style={{ color: 'black', textDecoration: 'underline' }}

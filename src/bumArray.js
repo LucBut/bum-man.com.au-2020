@@ -19,7 +19,7 @@ export const bumArray = [
   <BumPost
     date="12 November 2021"
     instagram="https://www.instagram.com/p/CWKZDiNlKdj/"
-    image="/bumman/109_Colouring book.mp4"
+    image="/bumman/109_Colouring book.png"
     title="Colouring book - hot off the press! 🍑"
     key="Colouring book 🍑"
   />,

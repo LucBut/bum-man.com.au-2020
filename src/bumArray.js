@@ -21,7 +21,7 @@ export const bumArray = [
     instagram="https://www.instagram.com/p/CWzsTVsp9mm/"
     image="/bumman/112_Framed birthday card.jpeg"
     title="A Bum Man original - framed and on the wall all the way over in England - what an honour! 🍑"
-    key="Framed birthday card 🍑"
+    key="A Bum Man original 🍑"
   />,
 
   <BumPost

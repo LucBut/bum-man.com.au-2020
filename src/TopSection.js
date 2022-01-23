@@ -67,7 +67,7 @@ const TopSection = ({ simple = false }) => (
                 padding: '2px 0 2px 0',
               }}
             >
-              <a href="http://blog.bum-man.com.au" style={{ color: 'black' }}>
+              <a href="https://bumman.gumroad.com/posts" style={{ color: 'black' }}>
                 Blog
               </a>
             </div>

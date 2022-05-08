@@ -17,6 +17,22 @@ import BumPost from './BumPost';
 export const bumArray = [
 
   <BumPost
+    date="8 May 2022"
+    instagram="https://www.instagram.com/p/CdRpa8PPvq9/"
+    image="/bumman/118_Mothers day spinach.png"
+    title="Happy Mother's Day to all parents who enjoy growing and eating spinach as much as Bum Man's 🍑"
+    key="Mothers day spinach 🍑"
+  />,
+
+  <BumPost
+    date="8 May 2022"
+    instagram="https://www.instagram.com/thebummandiaries/"
+    image="/bumman/117_Avery.png"
+    title="Loyal fan 🍑"
+    key="Loyal fan 🍑"
+  />,
+
+  <BumPost
     date="18 March 2022"
     instagram="https://www.instagram.com/p/CbOWubDPna4/"
     image="/bumman/116_Fly-in fly-out.jpg"

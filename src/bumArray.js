@@ -147,9 +147,9 @@ export const bumArray = [
   <BumPost
     date="11 November 2021"
     instagram="https://www.instagram.com/p/CWH6x8Ll01L/"
-    image="/bumman/108_Flood.PNG"
-    title="Flood 🍑"
-    key="Flood 🍑"
+    image="/bumman/108_El Nino.PNG"
+    title="El Nino 🍑"
+    key="El Nino 🍑"
   />,
 
   <BumPost

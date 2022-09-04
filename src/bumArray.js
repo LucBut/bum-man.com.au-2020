@@ -76,8 +76,8 @@ export const bumArray = [
     date="8 May 2022"
     instagram="https://www.instagram.com/p/CdRpa8PPvq9/"
     image="/bumman/118_Mothers day spinach.png"
-    title="Happy Mother's Day to all parents who enjoy growing and eating spinach as much as Bum Man's 🍑"
-    key="Mothers day spinach 🍑"
+    title="Spinach 🍑"
+    key="Spinach 🍑"
   />,
 
   <BumPost

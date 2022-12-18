@@ -92,7 +92,7 @@ const TopSection = ({ simple = false }) => (
           }}
         >
           <p>
-            Colouring book, stickers, badges, NFTs, wallpapers:
+            Colouring book, stickers, and wallpapers:
             <br />
             <a
               style={{ color: 'black', textDecoration: 'underline' }}
@@ -107,13 +107,7 @@ const TopSection = ({ simple = false }) => (
             >
               Gumroad
             </a>{' '}
-            |{' '}
-            <a
-              style={{ color: 'black', textDecoration: 'underline' }}
-              href="https://bum-man.holaplex.com/#/"
-            >
-              Holaplex
-            </a>
+
 
           </p>
         </div>

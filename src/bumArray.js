@@ -19,9 +19,17 @@ export const bumArray = [
   <BumPost
     date="29 December 2022"
     instagram="https://www.instagram.com/p/Cmu7fdfyU8U/"
-    image="/bumman/128_Sprinkler.png"
+    image="/bumman/129_Sprinkler.png"
     title="Sprinkler 🍑"
     key="Sprinkler 🍑"
+  />,
+
+  <BumPost
+    date="5 November 2022"
+    instagram="https://www.instagram.com/p/CkkM9kWyL8Z/"
+    image="/bumman/128_Vanessa_birthday.png"
+    title="Happy birthday Vanessa 🍑"
+    key="Happy birthday Vanesssa 🍑"
   />,
 
   <BumPost

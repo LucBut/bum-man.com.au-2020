@@ -60,7 +60,7 @@ const Links = () => {
           text="Instagram"
         />
         <Link url="https://twitter.com/MrBumMan" text="Twitter" />
-        <Link url="https://bumman.gumroad.com/posts/" text="Blog" />
+        {/* <Link url="https://bumman.gumroad.com/posts/" text="Blog" /> */}
       </div>
     </Container>
   );

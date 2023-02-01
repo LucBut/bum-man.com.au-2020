@@ -66,9 +66,9 @@ const TopSection = ({ simple = false }) => (
                 boxShadow: '2px 2px 2px lightgrey',
                 padding: '2px 0 2px 0',
               }}
-            >
+            />
 
-            </div>
+
           </div>
         </div>
 

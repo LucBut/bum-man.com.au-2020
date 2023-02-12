@@ -47,7 +47,7 @@ const App = () => {
         <Pagination
           activePage={page}
           onPageChange={handlePageChange}
-          totalPages={13} // also update below
+          totalPages={14} // also update below
         />
       </div>
 
@@ -66,12 +66,13 @@ const App = () => {
       {page === 11 ? <TenBumMen startNumber={100} /> : null}
       {page === 12 ? <TenBumMen startNumber={110} /> : null}
       {page === 13 ? <TenBumMen startNumber={120} /> : null}
+      {page === 14 ? <TenBumMen startNumber={130} /> : null}
 
       <div style={{ margin: '0 auto', textAlign: 'center' }}>
         <Pagination
           activePage={page}
           onPageChange={handlePageChange}
-          totalPages={13}
+          totalPages={14}
         />
       </div>
 

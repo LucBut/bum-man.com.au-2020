@@ -35,18 +35,9 @@ const TopSection = ({ simple = false }) => (
           <div
             style={{ alignSelf: 'center', fontSize: '1.2em', gridColumn: 1 }}
           >
-            <p>Drawings from a happy place.</p>
+            <p>Drawings from a happy place</p>
 
-            <p>All newer drawings are made with{' '}
-              <a href="https://pen.tips/?ref=3uiv7sxl7i">pen tips</a>.</p>
-          </div>
-          <div
-            style={{
-              fontSize: '36px',
-              gridColumn: 3,
-              justifySelf: 'end',
-            }}
-          >
+
             <a
               href="https://www.instagram.com/thebummandiaries/"
               style={{ color: '#444444', marginRight: '10px' }}

@@ -90,7 +90,7 @@ const TopSection = ({ simple = false }) => (
           }}
         >
           <p>
-            Colouring book, stickers, and wallpapers:
+            Colouring book, stickers, and free wallpapers:
             <br />
             <a
               style={{ color: 'black', textDecoration: 'underline' }}

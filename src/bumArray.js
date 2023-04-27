@@ -17,6 +17,14 @@ import BumPost from './BumPost';
 export const bumArray = [
 
   <BumPost
+    date="28 April 2023"
+    instagram="https://www.instagram.com/p/Crjczgzy4cX/"
+    image="/bumman/135_Australian-American memorial.png"
+    title="Out and about in Canberra: Australian-American memorial 🍑"
+    key="Australian-American memorial 🍑"
+  />,
+
+  <BumPost
     date="26 April 2023"
     instagram="https://www.instagram.com/p/CrZJquwy8Kb/"
     image="/bumman/134_black Mountain tower.png"

@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import React from 'react';
-import { Divider, Header } from 'semantic-ui-react';
+import { Header } from 'semantic-ui-react';
 
 const TopSection = ({ simple = false }) => (
   <>
@@ -33,75 +33,15 @@ const TopSection = ({ simple = false }) => (
           }}
         >
           <div
-            style={{ alignSelf: 'center', fontSize: '1.2em', gridColumn: 1 }}
+            style={{ alignSelf: 'center', fontSize: '1.2em', gridColumn: 1, marginBottom: '2rem' }}
           >
-            <p>Drawings from a happy place</p>
-
-
-            <a
-              href="https://www.instagram.com/thebummandiaries/"
-              style={{ color: '#444444', marginRight: '10px' }}
-            >
-              <i className="fab fa-instagram-square" />
-              {/* <LazyLoadImage src="/instagram.png" /> */}
-            </a>
-            <a style={{ color: '#444444' }} href="https://twitter.com/mrbumman">
-              <i className="fab fa-twitter-square" />
-            </a>
-            <div
-              style={{
-                fontSize: '1.2rem',
-                textAlign: 'center',
-                border: '1px solid darkgrey',
-                borderRadius: '3px',
-                boxShadow: '2px 2px 2px lightgrey',
-                padding: '2px 0 2px 0',
-              }}
-            />
+            <h2>Drawings from a happy place</h2>
+            <p>Colouring books available in store at <a href="https://www.popcanberra.com.au/">Pop Canberra</a>, Braddon, and <a href="https://www.etsy.com/au/shop/MrBumMan">Etsy</a>. Free wallpapers for mobile and laptop available on <a href="https://bumman.gumroad.com/?sort=price_desc">Gumroad</a>. Follow me on <a href="https://www.instagram.com/thebummandiaries/">Instagram</a> or <a href="https://twitter.com/MrBumMan">Twitter</a>.</p>
 
 
           </div>
         </div>
 
-        <Divider />
-
-        <div
-          style={{
-            textAlign: 'center',
-            fontSize: '1.2rem',
-            marginTop: '30px',
-            marginBottom: '30px',
-            marginLeft: 'auto',
-            marginRight: 'auto',
-            maxWidth: '450px',
-            border: '2px solid darkgrey',
-            padding: '10px 20px 10px 20px',
-            borderRadius: '5px',
-            boxShadow: '2px 2px 5px lightgrey',
-          }}
-        >
-          <p>
-            Colouring book, stickers, and free wallpapers:
-            <br />
-            <a
-              style={{ color: 'black', textDecoration: 'underline' }}
-              href="https://www.etsy.com/au/shop/MrBumMan"
-            >
-              Etsy
-            </a>{' '}
-            |{' '}
-            <a
-              style={{ color: 'black', textDecoration: 'underline' }}
-              href="https://gumroad.com/bumman"
-            >
-              Gumroad
-            </a>{' '}
-
-
-          </p>
-        </div>
-
-        <Divider />
       </>
     )}
   </>

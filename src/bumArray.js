@@ -17,13 +17,20 @@ import BumPost from './BumPost';
 export const bumArray = [
 
   <BumPost
+    date="5 May 2023"
+    instagram="https://www.instagram.com/p/Cr1a9jyyY2b/"
+    image="/bumman/137_bus stop.png"
+    title="Out and about in Canberra: Bus stop 🍑"
+    key="Bus stop 🍑"
+  />,
+
+  <BumPost
     date="3 May 2023"
     instagram="https://www.instagram.com/p/CsCWV3JyQX6/"
     image="/bumman/136_carillon.png"
     title="Out and about in Canberra: Carillon 🍑"
     key="Carillon 🍑"
   />,
-
 
   <BumPost
     date="28 April 2023"

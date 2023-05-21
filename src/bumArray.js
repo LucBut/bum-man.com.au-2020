@@ -20,7 +20,7 @@ export const bumArray = [
     date="21 May 2023"
     instagram="https://www.instagram.com/p/Csf3NYhSCW_/"
     image="/bumman/140_botanic gardens.png"
-    title="Out and about in Canberra: Australian national botanic gardens 🍑"
+    title="Out and about in Canberra: Australian botanic gardens 🍑"
     key="Botanic gardens 🍑"
   />,
 

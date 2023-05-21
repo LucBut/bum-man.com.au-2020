@@ -17,6 +17,14 @@ import BumPost from './BumPost';
 export const bumArray = [
 
   <BumPost
+    date="21 May 2023"
+    instagram="https://www.instagram.com/p/Csf3NYhSCW_/"
+    image="/bumman/140_botanic gardens.png"
+    title="Out and about in Canberra: Australian national botanic gardens 🍑"
+    key="Botanic gardens 🍑"
+  />,
+
+  <BumPost
     date="12 May 2023"
     instagram="https://www.instagram.com/p/CsHrgz1yZ8A/"
     image="/bumman/139_arboretum.png"

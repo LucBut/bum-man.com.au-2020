@@ -19,9 +19,9 @@ export const bumArray = [
   <BumPost
     date="3 June 2023"
     instagram="https://www.instagram.com/p/CtBBHUCyzNu/"
-    image="/bumman/141_city rabbits.png"
-    title="Out and about in Canberra: City rabbits 🍑"
-    key="City rabbits 🍑"
+    image="/bumman/141_rabbit stew.png"
+    title="Out and about in Canberra: Rabbit stew 🍑"
+    key="Rabbit stew 🍑"
   />,
 
   <BumPost

@@ -67,6 +67,8 @@ const App = () => {
       {page === 12 ? <TenBumMen startNumber={110} /> : null}
       {page === 13 ? <TenBumMen startNumber={120} /> : null}
       {page === 14 ? <TenBumMen startNumber={130} /> : null}
+      {page === 15 ? <TenBumMen startNumber={140} /> : null}
+
 
       <div style={{ margin: '0 auto', textAlign: 'center' }}>
         <Pagination

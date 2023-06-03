@@ -47,7 +47,7 @@ const App = () => {
         <Pagination
           activePage={page}
           onPageChange={handlePageChange}
-          totalPages={14} // also update below
+          totalPages={15} // also update below
         />
       </div>
 

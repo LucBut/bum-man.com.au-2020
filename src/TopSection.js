@@ -36,7 +36,7 @@ const TopSection = ({ simple = false }) => (
             style={{ alignSelf: 'center', fontSize: '1.2em', gridColumn: 1, marginBottom: '2rem' }}
           >
             <h2>Drawings from a happy place</h2>
-            <p>Colouring books available in store at <a href="https://www.popcanberra.com.au/">Pop Canberra</a>, Braddon, and <a href="https://www.etsy.com/au/shop/MrBumMan">Etsy</a>. Free wallpapers for mobile and laptop available on <a href="https://bumman.gumroad.com/?sort=price_desc">Gumroad</a>. Follow me on <a href="https://www.instagram.com/thebummandiaries/">Instagram</a> or <a href="https://twitter.com/MrBumMan">Twitter</a>.</p>
+            <p>Colouring books available in store at <a href="https://www.popcanberra.com.au/">Pop Canberra</a>, Braddon, and <a href="https://www.etsy.com/au/shop/MrBumMan">Etsy</a>. Free wallpapers for mobile and laptop available on <a href="https://bumman.gumroad.com/?sort=price_desc">Gumroad</a>. Follow me on <a href="https://www.instagram.com/thebummandiaries/">Instagram</a> or <a href="https://twitter.com/MrBumMan">the thing that used to be Twitter</a>.</p>
 
 
           </div>

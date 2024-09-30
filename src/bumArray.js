@@ -17,6 +17,46 @@ import BumPost from './BumPost';
 export const bumArray = [
 
   <BumPost
+    date="28 September 2024"
+    instagram="https://www.instagram.com/p/DAdJ50USMqW/"
+    image="/bumman/153_Modern human 1.png"
+    title="Modern human 1 🍑"
+    key="Modern human 1 🍑"
+  />,
+
+  <BumPost
+    date="28 September 2024"
+    instagram="https://www.instagram.com/p/DAdH-cjyhAU/?img_index=4"
+    image="/bumman/152_Studies of crack 4.png"
+    title="Studies of crack 4 🍑"
+    key="Studies of crack 4 🍑"
+  />,
+
+  <BumPost
+    date="28 September 2024"
+    instagram="https://www.instagram.com/p/DAdH-cjyhAU/?img_index=3"
+    image="/bumman/152_Studies of crack 3.png"
+    title="Studies of crack 3 🍑"
+    key="Studies of crack 3 🍑"
+  />,
+
+  <BumPost
+    date="28 September 2024"
+    instagram="https://www.instagram.com/p/DAdH-cjyhAU/?img_index=2"
+    image="/bumman/152_Studies of crack 2.png"
+    title="Studies of crack 2 🍑"
+    key="Studies of crack 2 🍑"
+  />,
+
+  <BumPost
+    date="28 September 2024"
+    instagram="https://www.instagram.com/p/DAdH-cjyhAU/?img_index=1"
+    image="/bumman/152_Studies of crack 1.png"
+    title="Studies of crack 1 🍑"
+    key="Studies of crack 1 🍑"
+  />,
+
+  <BumPost
     date="20 July 2024"
     instagram="https://www.instagram.com/p/C9o6yjTyzUP/"
     image="/bumman/151_Inside day.png"

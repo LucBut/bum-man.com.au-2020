@@ -27,7 +27,7 @@ export const bumArray = [
   <BumPost
     date="8 November 2024"
     instagram="https://www.instagram.com/p/DCGhyd_SNWu/"
-    image="/bumman/154_Chilli for dinner tonight.png"
+    image="/bumman/154_Chilli for dinner tonight.jpg"
     title="Chilli for dinner tonight 🍑"
     key="Chilli for dinner tonight 🍑"
   />,

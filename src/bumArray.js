@@ -17,6 +17,14 @@ import BumPost from './BumPost';
 export const bumArray = [
 
   <BumPost
+    date="23 March 2026"
+    instagram="https://www.instagram.com/p/DWOfXH9k5xC/"
+    image="/bumman/162_Big hotel buffet breakfast.png"
+    title="Big hotel buffet breakfast 🍑"
+    key="Big hotel buffet breakfast 🍑"
+  />,
+
+  <BumPost
     date="23 January 2026"
     instagram="https://www.instagram.com/p/DT3LVKODE4r/"
     image="/bumman/161_I see orange.png"

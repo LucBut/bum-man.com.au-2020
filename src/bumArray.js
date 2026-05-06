@@ -18,7 +18,7 @@ export const bumArray = [
 
 <BumPost
     date="6 May 2026"
-    instagram="https://www.instagram.com/p/DX6vLsvk5FG/"
+    instagram="https://www.instagram.com/p/DX-_rqzk3VW/"
     image="/bumman/165_Excellent pants warning.png"
     title="Excellent pants warning 🍑"
     key="Excellent pants warning 2 🍑"
